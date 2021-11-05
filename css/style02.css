@@ -31,13 +31,18 @@ header{
 
 #menu{
   position: fixed;
-  top: 100px;
-  font-size: 100px;
+  top: 50px;
+  font-size: 20px;
   font-family: 'Roboto', sans-serif;
   line-height: 1;
-  left: 20px;
+  left: 220px;
   z-index: 100;
   cursor: pointer;
+}
+
+
+#menu li{
+  display:inline-block;
 }
 
 #content{
