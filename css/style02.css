@@ -32,10 +32,10 @@ header{
 #menu{
   position: fixed;
   top: 50px;
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Roboto', sans-serif;
   line-height: 1;
-  left: 220px;
+  left: 1050px;
   z-index: 100;
   cursor: pointer;
 }
